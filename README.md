@@ -2,7 +2,7 @@
 
 Este proyecto consta de dos componentes principales: `export.py` y el dashboard del "Análisis Meli" para mostrar métricas de un Tableau Server de Mercado Libre.
 
-En un principio me dieron varios excel, pero para facilitar la union, considere que mas facil era dejarlo en una base de datos.
+En un principio me fueron entregados varios excel, pero para facilitar la unión, considere que era mas práctico el dejarlo en una base de datos.
 
 ## export.py
 
