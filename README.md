@@ -1,6 +1,6 @@
-# Proyecto "Desafío Meli"
+# Proyecto "Analisis Meli"
 
-Este proyecto consta de dos componentes principales: `export.py` y el dashboard del "Desafío Meli" para mostrar métricas de un Tableau Server de Mercado Libre.
+Este proyecto consta de dos componentes principales: `export.py` y el dashboard del "Análisis Meli" para mostrar métricas de un Tableau Server de Mercado Libre.
 
 En un principio me dieron varios excel, pero para facilitar la union, considere que mas facil era dejarlo en una base de datos.
 
@@ -12,7 +12,7 @@ El archivo `export.py` es una utilidad que exporta datos de un archivo CSV a una
 - Pandas: Una biblioteca de análisis de datos para manipular y transformar los datos del CSV.
 - Driver de MariaDB: El controlador necesario para conectar y comunicarse con la base de datos MariaDB.
 
-## Dashboard del "Desafío Meli"
+## Dashboard del "Análisis Meli"
 
 El dashboard del "Desafío Meli" muestra métricas extraídas de un día de Tableau Server de Mercado Libre. Utiliza las siguientes tablas del Tableau Data Dictionary (especificación en [enlace](https://tableau.github.io/tableau-data-dictionary/2021.3/data_dictionary.htm#public.http_requests_anchor)):
 
